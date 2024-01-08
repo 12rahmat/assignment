@@ -1,0 +1,23 @@
+.header{
+    height: 300px;
+    background-image: url();
+    background-color: aqua;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2{
+    font-size: 50px;
+    color: blanchedalmond;
+    text-decoration: overline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.blog{
+    margin: 10px;
+    border: 50px solid;
+    box-shadow: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.second{
+   display: none;
+}

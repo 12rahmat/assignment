@@ -1,0 +1,56 @@
+.baner-title {
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+    line-height: normal;
+    color: #130505;
+    font-style: normal;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+}
+
+.banner-design {
+
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+
+}
+
+.banner-design {
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.backgroúng-img {
+    background-image: url('../img/banner\ image.png');
+    width: 1320px;
+    height: 80vh;
+   
+    background-repeat: no-repeat;
+}
+
+.textSection{
+    padding-top: 100px;
+}
+.color-section {
+  color: white;
+  width: 630px;  
+  height: 40px;
+  margin: auto;
+  
+}
+.baner-title{
+    color: white; 
+}
+
